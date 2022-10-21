@@ -19,6 +19,9 @@
   background-color: #cffafe;
   border-radius: 10px;
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .profile-name {
@@ -27,4 +30,5 @@
 
 .profile-details {
   color: #1e293b;
+  text-align: center;
 }
